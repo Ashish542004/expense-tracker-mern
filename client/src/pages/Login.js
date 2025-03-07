@@ -6,7 +6,7 @@ import Spinner from "../components/Spinner";
 import "../styles/Loginpage.css";
 const Login = () => {
   const img =
-    "https://images.unsplash.com/photo-1593538312308-d4c29d8dc7f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80";
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWpw3TmvkvwAcVjAg6vWUazweTnS3Zoz988Q&s";
   const [loading, setLoading] = useState(false);
   const navigate = useNavigate();
   //from submit
